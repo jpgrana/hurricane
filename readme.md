@@ -1,0 +1,3 @@
+This repo is a project I started to learn how to apply switchpoint analysis in pymc3.  The analysis is based on the excellent repo https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.  That example had a case study using text messages but I thought it would be fun to apply the same analysis to hurricane/tropical storm data.  I found the storm data at http://www.nhc.noaa.gov/climo/.  Also included in the repo are various previous studies of storm frequency.  There is also some global temperature and hotspot data.
+
+I discontinued this analysis in favor of another project, but include the data and a few notebooks here as a starting place for anyone who may be interested in doing their own analysis.
